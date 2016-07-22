@@ -1,0 +1,6 @@
+# Notes
+
++ pyvenv is the new default virtualenv library for Python 3.5.
+  + `$ pyvenv-3.5 <env name>`
+  + `$ source env/bin/activate` To activate env.
+  + Add `source env/bin/activate` to .env file in root of project for autoenv to use.
